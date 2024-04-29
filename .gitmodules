@@ -6,3 +6,7 @@
 	path = ESP32-I2C-LSM6DSOX-LIS3MDL-Library
 	url = https://github.com/JSpeedie/ESP32-I2C-LSM6DSOX-LIS3MDL-Library
 	branch = main
+[submodule "ESP32-SPI-SSD1327-Library"]
+	path = ESP32-SPI-SSD1327-Library
+	url = https://github.com/JSpeedie/ESP32-SPI-SSD1327-Library
+	branch = main
