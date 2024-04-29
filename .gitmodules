@@ -1,3 +1,4 @@
 [submodule "Linux-I2C-HD44780-LCD-C-Library"]
 	path = Linux-I2C-HD44780-LCD-C-Library
 	url = https://github.com/JSpeedie/Linux-I2C-HD44780-LCD-C-Library
+	branch = main
