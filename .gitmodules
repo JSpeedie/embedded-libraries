@@ -2,3 +2,7 @@
 	path = Linux-I2C-HD44780-LCD-C-Library
 	url = https://github.com/JSpeedie/Linux-I2C-HD44780-LCD-C-Library
 	branch = main
+[submodule "ESP32-I2C-LSM6DSOX-LIS3MDL-Library"]
+	path = ESP32-I2C-LSM6DSOX-LIS3MDL-Library
+	url = https://github.com/JSpeedie/ESP32-I2C-LSM6DSOX-LIS3MDL-Library
+	branch = main
