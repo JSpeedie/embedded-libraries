@@ -41,7 +41,6 @@ git branch -u origin/main main
 With the submodule now added and tracking main, we can commit and push:
 
 ```bash
-git add .gitmodules
 git commit -m [commit message]
 git push
 ```
