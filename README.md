@@ -1,5 +1,11 @@
 # embedded-libraries
-A collection of libraries I wrote for various embedded peripherals
+
+A collection of libraries I wrote for various embedded peripherals.
+
+The point of this repository is to provide a simple way to find and view
+the libraries I have written. Click on the submodule links in the file list
+of this repo to visit the library pages which have more information about
+themselves.
 
 
 ## Cloning
@@ -36,7 +42,6 @@ With the submodule now added and tracking main, we can commit and push:
 
 ```bash
 git add .gitmodules
-git add [name of git repo]
 git commit -m [commit message]
 git push
 ```
