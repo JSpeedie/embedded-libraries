@@ -20,7 +20,9 @@ git clone --recursive git@github.com:JSpeedie/embedded-libraries.git embedded-li
 
 ## Maintenance
 
-To add another library as a submodule:
+### Adding another library (as a submodule):
+
+Adding a new library is simple:
 
 ```bash
 cd embedded-librariesGit/
@@ -42,5 +44,16 @@ With the submodule now added and tracking main, we can commit and push:
 
 ```bash
 git commit -m [commit message]
+git push
+```
+
+### Updating the libraries
+
+Since the links in this repo to the library repos can get out of date,
+here's the command sequence to update them:
+
+```bash
+git submodule update --remote --merge
+git commit -am "Updated the libraries"
 git push
 ```
