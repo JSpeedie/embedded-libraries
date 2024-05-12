@@ -10,3 +10,7 @@
 	path = ESP32-SPI-SSD1327-Library
 	url = https://github.com/JSpeedie/ESP32-SPI-SSD1327-Library
 	branch = main
+[submodule "ESP32-I2C-HD44780-PCF8574-Library"]
+	path = ESP32-I2C-HD44780-PCF8574-Library
+	url = https://github.com/JSpeedie/ESP32-I2C-HD44780-PCF8574-Library
+	branch = main
