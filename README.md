@@ -30,6 +30,8 @@ cd embedded-librariesGit/
 git submodule add -b main [url to git repo]
 ```
 
+<details><summary>Instructions on how to get an already-added submodule to track main (Click to Expand)</summary><p>
+
 If you have already added the submodule but want it to track the `main` branch
 of its repo rather than a specific commit, instead of running the previous
 command, you can do the following:
@@ -39,6 +41,7 @@ git config -f .gitmodules submodule.[name of git repo].branch main
 cd [name of git repo]
 git branch -u origin/main main
 ```
+</p></details>
 
 With the submodule now added and tracking main, we can commit and push:
 
