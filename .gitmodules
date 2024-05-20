@@ -14,3 +14,7 @@
 	path = ESP32-I2C-HD44780-PCF8574-Library
 	url = https://github.com/JSpeedie/ESP32-I2C-HD44780-PCF8574-Library
 	branch = main
+[submodule "ESP32-UART-US-100-Library"]
+	path = ESP32-UART-US-100-Library
+	url = https://github.com/JSpeedie/ESP32-UART-US-100-Library
+	branch = main
